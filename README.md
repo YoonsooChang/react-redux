@@ -1,1 +1,1 @@
-### Vanilla Redux Study
+### React Redux Study
